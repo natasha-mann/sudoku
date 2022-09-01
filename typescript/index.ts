@@ -1,5 +1,3 @@
-const { CORRECT_SUDOKU } = require("./solutions");
-
 export class Sudoku {
   solution: number[][];
 

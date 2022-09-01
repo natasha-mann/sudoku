@@ -4,7 +4,7 @@
   "description": "Sudoku is a number-placement puzzle where the objective is to fill a 9x9 grid with digits such that each column, each row and each 3x3 sub-grid contain all digits from 1 to 9 exactly once. The challenge this week is to write code capable of validating whether a given Sudoku solution is valid or not.",
   "main": "index.js",
   "scripts": {
-    "start": "tsc index.ts",
+    "start": "ts-node index.ts",
     "test": "jest --watch"
   },
   "keywords": [],
